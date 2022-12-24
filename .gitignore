@@ -9,3 +9,5 @@ _ReSharper.*
 *.cache
 *.Cache
 Thumbs.db
+/.vs/IoExtensions/v17
+/.vs/IoExtensions/FileContentIndex
